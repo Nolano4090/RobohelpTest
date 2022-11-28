@@ -1,0 +1,12 @@
+{
+	"name": "Responsive HTML5",
+	"type": "html5",
+	"search": {
+		"fileTypes": {},
+		"fuzzy": true,
+		"suggestion": true,
+		"context": false,
+		"glossary": true,
+		"contextLimit": "100"
+	}
+}
